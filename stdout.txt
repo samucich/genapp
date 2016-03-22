@@ -1,0 +1,163 @@
+
+Running node-supervisor with
+  program './bin/www'
+  --watch '.'
+  --extensions 'node,js,/bin/www'
+  --exec 'node'
+
+Starting child process with 'node ./bin/www'
+Watching directory '/home/bitnami/genapp' for changes.
+Press rs for restarting the process.
+[0mPOST / [32m200 [0m14.284 ms - 41[0m
+Year,Jan,Feb,Av
+1871,"Hi Mom",3.4,1.244556
+1872,"Hi Mom",,1.244556
+[0mPOST / [32m200 [0m1.248 ms - 41[0m
+Year,Month,All stocks,Industrials ,Railroads,Utilities,Coal,Miscellaneous Services,Shipping and Shipbuilding,Mining and Smelting-Miscellaneous,Utilities Telephone and Telegraph,Railroad Equipment,Utilities+Electric+Gas+Etc.-Operating Companies,Steel and Iron,Miscellaneous Manufacturing,Sugar Producing and Refining,Electrical Equipment,Utilities-Electric+ Gas+ Etc.-Holding Companies,Household Products and Supplies,Automobiles Tires and Rubber Goods,Leather,Utilities-Traction+Motor Transportation Etc,Food Products-other than Meats,Paper and Paper Products,Copper and Brass,Machinery and Machine Equipment,Textiles,Wool and Woolen Goods,Fertilizer,Steel and Iron (Excluding U. S. steel),Steel and Iron (U. S. Steel),Tobacco-Cigar Manufacturers,Chemicals,Leed and Zinc,Agricultural Machinery,Retail Trade,Retail Trade-Department Stores,Retal Trade-Mail Order Houses,Oil Producing and Refining,Office and Business Equipment,Tobacco and Tobacco Products,Tobacco-Cigarette Manufacturers,Automobiles and Trucks,Automobiles and Trucks(General Motors),Automobiles and Trucks(Excluding General Motors),Retail Trade-Chain Stores,Retail TradeÑ5¢ TO $1 Chains,Apparel,Shoes,Retail Trade-Tobacco Chains,Building Equipment and Supplies,Automobile Parts and Accessories,Drugs Medicines and Cosmetics,Meat Packing,Coal-Anthracite,Coal-Bituminous,Theatres and Motion Pictures,Silk and Silk Goods,Cotton and Cotton Goods,Airplane,Retail Trade-Restaurant Chains,Radio Phonograph and Musical Instruments,Retail Trade-Grocery and Meat Chains,Advertising,Beverages,Containers (Metal and Glass),Rayon,Airplane-Manufacturing Companies,Airplane-Transportation Companies,Gold Mining,Retail Trade-Drug Chains
+1871,Dec,37.8,20.3,43.7,64.8,38.8,25.3,375.5,157.2,32.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1872,Dec,40.5,24.2,46.0,76.6,39.8,34.3,582.2,387.4,40.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1873,Dec,38.6,24.2,43.9,69.6,48.0,31.4,346.0,322.8,43.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1874,Dec,36.8,24.5,41.5,67.0,50.6,33.0,329.5,209.9,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1875,Dec,35.8,23.1,40.3,67.0,48.9,31.4,286.6,211.1,43.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1881,Dec,50.3,24.9,59.4,86.0,42.1,43.6,380.4,127.9,80.3,9.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1882,Dec,47.5,24.5,55.7,82.8,36.7,46.7,311.3,64.3,79.1,10.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1883,Dec,45.4,22.9,53.5,78.1,25.0,43.7,291.8,44.4,74.9,10.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1884,Dec,38.1,20.9,45.0,61.8,15.2,43.1,254.8,28.5,58.5,8.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1885,Dec,37.0,22.3,43.4,60.4,17.6,44.6,285.5,32.9,58.0,9.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1886,Dec,43.2,25.3,50.8,68.5,32.3,48.4,285.8,38.6,61.9,11.1,50.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1887,Dec,44.5,26.5,52.4,69.0,39.4,49.6,270.4,40.0,67.0,12.1,47.2,33.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1888,Dec,41.9,27.4,48.4,69.2,35.4,50.5,252.3,58.6,71.1,13.6,43.7,27.8,147.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1889,Dec,42.8,33.0,48.1,75.8,35.8,53.5,240.2,38.3,76.7,17.7,47.4,43.1,212.4,88.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+[0mPOST / [32m200 [0m0.551 ms - 41[0m
+{"markers": [
+� � � � {
+� � � � � � "point":new GLatLng(40.266044,-74.718479), 
+� � � � � � "homeTeam":"Lawrence Library",
+� � � � � � "awayTeam":"LUGip",
+� � � � � � "markerImage":"images/red.png",
+� � � � � � "information": "Linux users group meets second Wednesday of each month.",
+� � � � � � "fixture":"Wednesday 7pm",
+� � � � � � "capacity":"",
+� � � � � � "previousScore":""
+� � � � },
+� � � � {
+� � � � � � "point":new GLatLng(40.211600,-74.695702),
+� � � � � � "homeTeam":"Hamilton Library",
+� � � � � � "awayTeam":"LUGip HW SIG",
+� � � � � � "markerImage":"images/white.png",
+� � � � � � "information": "Linux users can meet the first Tuesday of the month to work out harward and configuration issues.",
+� � � � � � "fixture":"Tuesday 7pm",
+� � � � � � "capacity":"",
+� � � � � � "tv":""
+� � � � },
+� � � � {
+� � � � � � "point":new GLatLng(40.294535,-74.682012),
+� � � � � � "homeTeam":"Applebees",
+� � � � � � "awayTeam":"After LUPip Mtg Spot",
+� � � � � � "markerImage":"images/newcastle.png",
+� � � � � � "information": "Some of us go there after the main LUGip meeting, drink brews, and talk.",
+� � � � � � "fixture":"Wednesday whenever",
+� � � � � � "capacity":"2 to 4 pints",
+� � � � � � "tv":""
+� � � � },
+] }
+[0mPOST / [32m200 [0m0.283 ms - 41[0m
+tail {"markers": [
+� � � � {
+� � � � � � "point":new GLatLng(40.266044,-74.718479), 
+� � � � � � "homeTeam":"Lawrence Library",
+� � � � � � "awayTeam":"LUGip",
+� � � � � � "markerImage":"images/red.png",
+� � � � � � "information": "Linux users group meets second Wednesday of each month.",
+� � � � � � "fixture":"Wednesday 7pm",
+� � � � � � "capacity":"",
+� � � � � � "previousScore":""
+� � � � },
+� � � � {
+� � � � � � "point":new GLatLng(40.211600,-74.695702),
+� � � � � � "homeTeam":"Hamilton Library",
+� � � � � � "awayTeam":"LUGip HW SIG",
+� � � � � � "markerImage":"images/white.png",
+� � � � � � "information": "Linux users can meet the first Tuesday of the month to work out harward and configuration issues.",
+� � � � � � "fixture":"Tuesday 7pm",
+� � � � � � "capacity":"",
+� � � � � � "tv":""
+� � � � },
+� � � � {
+� � � � � � "point":new GLatLng(40.294535,-74.682012),
+� � � � � � "homeTeam":"Applebees",
+� � � � � � "awayTeam":"After LUPip Mtg Spot",
+� � � � � � "markerImage":"images/newcastle.png",
+� � � � � � "information": "Some of us go there after the main LUGip meeting, drink brews, and talk.",
+� � � � � � "fixture":"Wednesday whenever",
+� � � � � � "capacity":"2 to 4 pints",
+� � � � � � "tv":""
+� � � � },
+] }
+[0mPOST / [32m200 [0m0.426 ms - 41[0m
+tail {"markers": [
+{
+"point":new GLatLng(40.266044,-74.718479), 
+"homeTeam":"Lawrence Library",
+"awayTeam":"LUGip",
+"markerImage":"images/red.png",
+"information": "Linux users group meets second Wednesday of each month.",
+"fixture":"Wednesday 7pm",
+"capacity":"",
+"previousScore":""
+},
+{
+"point":new GLatLng(40.211600,-74.695702),
+"homeTeam":"Hamilton Library",
+"awayTeam":"LUGip HW SIG",
+"markerImage":"images/white.png",
+"information": "Linux users can meet the first Tuesday of the month to work out harward and configuration issues.",
+"fixture":"Tuesday 7pm",
+"capacity":"",
+"tv":""
+},
+{
+"point":new GLatLng(40.294535,-74.682012),
+"homeTeam":"Applebees",
+"awayTeam":"After LUPip Mtg Spot",
+"markerImage":"images/newcastle.png",
+"information": "Some of us go there after the main LUGip meeting, drink brews, and talk.",
+"fixture":"Wednesday whenever",
+"capacity":"2 to 4 pints",
+"tv":""
+},
+]}
+[0mPOST / [32m200 [0m0.286 ms - 41[0m
+{"markers":[
+{
+"point":new GLatLng(40.266044,-74.718479), 
+"homeTeam":"Lawrence Library",
+"awayTeam":"LUGip",
+"markerImage":"images/red.png",
+"information": "Linux users group meets second Wednesday of each month.",
+"fixture":"Wednesday 7pm",
+"capacity":"",
+"previousScore":""
+},
+{
+"point":new GLatLng(40.211600,-74.695702),
+"homeTeam":"Hamilton Library",
+"awayTeam":"LUGip HW SIG",
+"markerImage":"images/white.png",
+"information": "Linux users can meet the first Tuesday of the month to work out harward and configuration issues.",
+"fixture":"Tuesday 7pm",
+"capacity":"",
+"tv":""
+},
+{
+"point":new GLatLng(40.294535,-74.682012),
+"homeTeam":"Applebees",
+"awayTeam":"After LUPip Mtg Spot",
+"markerImage":"images/newcastle.png",
+"information": "Some of us go there after the main LUGip meeting, drink brews, and talk.",
+"fixture":"Wednesday whenever",
+"capacity":"2 to 4 pints",
+"tv":""
+},
+]}
